@@ -1,3 +1,7 @@
+See this [app](https://vpodk.github.io/react-carousel/build/) online.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
