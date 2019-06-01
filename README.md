@@ -1,4 +1,8 @@
-See this [app](https://vpodk.github.io/react-carousel/build/) online.
+# React Carousel [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20simple%20image%20carousel%20built%20on%20React.&url=https://github.com/vpodk/react-carousel&via=GitHub)
+[![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html) [![Website](https://img.shields.io/website-up-down-green-red/https/vpodk.github.io.svg?style=flat)](https://vpodk.github.io/react-carousel/build/)
+
+🎠 A simple image carousel built on React.<br>
+Production build of this app is available at https://vpodk.github.io/react-carousel/build/
 
 ---
 
