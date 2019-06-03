@@ -20,7 +20,11 @@ class Carousel extends React.Component {
   }
 
   componentDidMount() {
-    setInterval(this.nextSlide, 5000);
+    this.timer = setInterval(this.nextSlide, 5000);
+  }
+
+  componentWillUnmount() {
+    clearInterval(this.timer);
   }
 
   previousSlide () {
